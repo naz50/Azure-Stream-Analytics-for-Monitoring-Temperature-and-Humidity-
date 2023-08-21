@@ -6,6 +6,7 @@ Azure Stream Analytics for Monitoring Temperature and Humidity NodeMCU (ESP8226)
 
 ![WhatsApp Image 2022-11-16 at 9 03 34 PM (1)](https://user-images.githubusercontent.com/74384259/202300597-06365eac-fe89-4bfb-833a-e213dd247ad0.jpeg)
 
+Project demonstration video:
 https://youtu.be/FDQnFd_gCho 
 
 
